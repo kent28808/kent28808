@@ -1,7 +1,6 @@
 # <a href="https://www.linkedin.com/in/kent28808/">Ken's</a> IT, Cybersecurity and Software Development Portfolio 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
-
+I'm a technology professional with experience spanning software engineering, IT operations, cloud infrastructure, and cybersecurity. My background includes developing software applications, supporting enterprise systems, working with Linux and Windows environments, and building hands-on labs to strengthen my skills in networking and security.
 
 ## ⚠️ Vulnerability Management Projects
 
