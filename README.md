@@ -1,15 +1,21 @@
-# <a href="https://www.linkedin.com/in/kent28808/">Ken's</a> IT, Cybersecurity and Software Development Portfolio 🔐
+# <a href="https://www.linkedin.com/in/kent28808/">Ken's</a> IT, Cybersecurity and Software Engineering Portfolio 🔐
 
 I'm a technology professional with experience spanning software engineering, IT operations, cloud infrastructure, and cybersecurity. My background includes developing software applications, supporting enterprise systems, working with Linux and Windows environments, and building hands-on labs to strengthen my skills in networking and security.
 
-## ⚠️ Vulnerability Management Projects
+## 🛡️ Vulnerability Management Projects
 
-- **[Vulnerability Management Project](https://github.com/kent28808/Vulnerability-Management-Program)**
-- **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](need repo)**
+🔹 **[Vulnerability Management Project](https://github.com/kent28808/Vulnerability-Management-Program)**                                                                                 
+🔹 **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](need repo)**
 
-## 🚨 Threat Hunting and Security Operations
+## ⚔️ Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](need repo)**
+🔸 **[Threat Hunting Scenario (Tor Browser Usage)](need repo)**
+
+## </> Software Engineering Projects
+
+🔹 **[Olive Branch](https://www.joincolab.io/product/olive-branch)**-Olive Branch is a communication tool that makes it easier for loved ones to reach out to each other after conflict. 
+🔹 **[Wheretogo](https://github.com/kent28808/Wheretogo)**-Travel application that uses the Yelp api to search for popular restaurants based on location.                               
+🔹 **[Samurai Champloo Memory Game](https://github.com/kent28808/Clicky-Game)**-Users can test their concentration and memory by not clicking on the same character more than once.
 
 <hr/>
 
