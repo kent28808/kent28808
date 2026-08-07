@@ -9,7 +9,8 @@ I'm a technology professional with experience spanning software engineering, IT 
 
 ## ⚔️ Threat Hunting and Security Operations
 
-🔸 **[Threat Hunting Scenario (Tor Browser Usage)](need repo)**
+🔸 **[Cloud-Based Windows Honeypot with End-to-End Detection & Incident Response](https://github.com/kent28808/sentineltrap-cloud-honeypot/tree/main)**
+🔸 **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/kent28808/sentineltrap-cloud-honeypot/tree/main)**
 
 ## </> Software Engineering Projects
 
