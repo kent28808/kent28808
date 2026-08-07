@@ -1,18 +1,21 @@
-# <a href="https://www.linkedin.com/in/kent28808/">Ken's</a> IT, Cybersecurity and Software Engineering Portfolio 🔐
+# <a href="https://www.linkedin.com/in/kent28808/">Ken's</a> IT, Cybersecurity & Software Engineering Portfolio 🔐
 
 I'm a technology professional with experience spanning software engineering, IT operations, cloud infrastructure, and cybersecurity. My background includes developing software applications, supporting enterprise systems, working with Linux and Windows environments, and building hands-on labs to strengthen my skills in networking and security.
 
-## 🛡️ Vulnerability Management Projects
+---
+## 🚀 Project Showcase
+
+### 🛡️ Vulnerability Management Projects
 
 🔹 **[Vulnerability Management Program](https://github.com/kent28808/Vulnerability-Management-Program)**                                                                                 
 🔹 **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](need repo)**
 
-## ⚔️ Threat Hunting and Security Operations
+### ⚔️ Threat Hunting and Security Operations
 
 🔸 **[Cloud-Based Windows Honeypot with End-to-End Detection & Incident Response](https://github.com/kent28808/sentineltrap-cloud-honeypot/tree/main)**                                  
 🔸 **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/kent28808/sentineltrap-cloud-honeypot/tree/main)**
 
-## </> Software Engineering Projects
+### </> Software Engineering Projects
 
 🔹 **[Olive Branch](https://www.joincolab.io/product/olive-branch)**-Olive Branch is a communication tool that makes it easier for loved ones to reach out to each other after conflict. 
 🔹 **[Wheretogo](https://github.com/kent28808/Wheretogo)**-Travel application that uses the Yelp api to search for popular restaurants based on location.                               
@@ -20,7 +23,7 @@ I'm a technology professional with experience spanning software engineering, IT 
 
 <hr/>
 
-## 🤳 Connect With Me
+### 🤳 Connect With Me
 <p>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kent28808@gmail.com"
      target="_blank"
