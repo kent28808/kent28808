@@ -10,10 +10,14 @@ I'm a technology professional with experience spanning software engineering, IT 
 🔹 **[Vulnerability Management Program](https://github.com/kent28808/Vulnerability-Management-Program)**                                                                                 
 🔹 **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](need repo)**
 
+<hr/>
+
 ### ⚔️ Threat Hunting and Security Operations
 
 🔸 **[Cloud-Based Windows Honeypot with End-to-End Detection & Incident Response](https://github.com/kent28808/sentineltrap-cloud-honeypot/tree/main)**                                  
 🔸 **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/kent28808/sentineltrap-cloud-honeypot/tree/main)**
+
+<hr/>
 
 ### </> Software Engineering Projects
 
