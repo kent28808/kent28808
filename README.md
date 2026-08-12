@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/kent28808/">Ken's</a> IT, Cybersecurity & Software Engineering Portfolio 🔐
+# <a href="https://www.linkedin.com/in/kent28808/">Ken's</a> IT, Cybersecurity & Software Engineering Portfolio
 
 I'm a technology professional with experience spanning software engineering, IT operations, cloud infrastructure, and cybersecurity.   
 My background includes developing software applications, supporting enterprise systems, working with Linux and Windows environments, and building hands-on labs to strengthen my skills in networking and security.
