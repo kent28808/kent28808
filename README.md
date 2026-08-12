@@ -15,7 +15,7 @@ I'm a technology professional with experience spanning software engineering, IT 
 ### 🛡️ Vulnerability Management Projects
 
 🔹 **[Vulnerability Management Program](https://github.com/kent28808/Vulnerability-Management-Program)**                                                                                 
-🔹 **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](need repo)**
+🔹 **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)]()**
 
 <hr/>
 
