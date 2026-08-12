@@ -7,23 +7,23 @@ I'm a technology professional with experience spanning software engineering, IT 
 
 ### ⚔️ Threat Hunting and Security Operations
 
-🔸 **[Cloud-Based Windows Honeypot with End-to-End Detection & Incident Response](https://github.com/kent28808/sentineltrap-cloud-honeypot/tree/main)**                                  
-🔸 **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/kent28808/sentineltrap-cloud-honeypot/tree/main)**
+🔸 **[Cloud-Based Windows Honeypot with End-to-End Detection & Incident Response](https://github.com/kent28808/sentineltrap-cloud-honeypot/tree/main)**  
+🔸 **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/kent28808/sentineltrap-cloud-honeypot/tree/main)**  
 
 <hr/>
 
 ### 🛡️ Vulnerability Management Projects
 
-🔹 **[Vulnerability Management Program](https://github.com/kent28808/Vulnerability-Management-Program)**                                                                                 
-🔹 **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)]()**
+🔹 **[Vulnerability Management Program](https://github.com/kent28808/Vulnerability-Management-Program)**  
+🔹 **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)]()**. 
 
 <hr/>
 
 ### </> Software Engineering Projects
 
-🔹 **[Olive Branch](https://www.joincolab.io/product/olive-branch)**-Olive Branch is a communication tool that makes it easier for loved ones to reach out to each other after conflict. 
-🔹 **[Wheretogo](https://github.com/kent28808/Wheretogo)**-Travel application that uses the Yelp api to search for popular restaurants based on location.                               
-🔹 **[Samurai Champloo Game](https://github.com/kent28808/Clicky-Game)**-Users can test their memory by not clicking on the same character more than once.
+🔹 **[Olive Branch](https://www.joincolab.io/product/olive-branch)**-Olive Branch is a communication tool that makes it easier for loved ones to reach out to each other after conflict.  
+🔹 **[Wheretogo](https://github.com/kent28808/Wheretogo)**-Travel application that uses the Yelp api to search for popular restaurants based on location.  
+🔹 **[Samurai Champloo Game](https://github.com/kent28808/Clicky-Game)**-Users can test their memory by not clicking on the same character more than once.  
 
 <hr/>
 
