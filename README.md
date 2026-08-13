@@ -22,9 +22,9 @@ My background includes developing software applications, supporting enterprise s
 
 ### </> Software Engineering
 
-🔹 **[Olive Branch](https://www.joincolab.io/product/olive-branch)**-*Olive Branch is a communication tool that makes it easier for loved ones to reach out to each other after conflict.*  
-🔹 **[Wheretogo](https://github.com/kent28808/Wheretogo)**-*Travel application that uses the Yelp api to search for popular restaurants based on location.*  
-🔹 **[Samurai Champloo Game](https://github.com/kent28808/Clicky-Game)**-*Users can test their memory by not clicking on the same character more than once.*  
+💠 **[Olive Branch](https://www.joincolab.io/product/olive-branch)**-*Olive Branch is a communication tool that makes it easier for loved ones to reach out to each other after conflict.*  
+💠 **[Wheretogo](https://github.com/kent28808/Wheretogo)**-*Travel application that uses the Yelp api to search for popular restaurants based on location.*  
+💠 **[Samurai Champloo Game](https://github.com/kent28808/Clicky-Game)**-*Users can test their memory by not clicking on the same character more than once.*  
 
 <hr/>
 
