@@ -11,14 +11,12 @@ My background includes developing software applications, supporting enterprise s
 🔸 **[Cloud-Based Windows Honeypot with End-to-End Detection & Incident Response](https://github.com/kent28808/sentineltrap-cloud-honeypot/tree/main)**  
 🔸 **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/kent28808/sentineltrap-cloud-honeypot/tree/main)**  
 
-<hr/>
 
 ### 🛡️ Vulnerability Management Projects
 
 🔹 **[Vulnerability Management Program](https://github.com/kent28808/Vulnerability-Management-Program)**  
 🔹 **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)]()**. 
 
-<hr/>
 
 ### </> Software Engineering Projects
 
