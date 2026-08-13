@@ -16,7 +16,7 @@ My background includes developing software applications, supporting enterprise s
 ### 🛡️ Vulnerability Management 
 
 🔹 **[Enterprise Vulnerability Management Program](https://github.com/kent28808/Vulnerability-Management-Program)**   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Built an end-to-end program for vulnerability discovery, prioritization, remediation, and validation.*  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*End-to-end program for vulnerability discovery, prioritization, remediation, and validation.*  
 🔹 **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)]()**. 
 
 
