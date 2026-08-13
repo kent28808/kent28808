@@ -13,14 +13,14 @@ My background includes developing software applications, supporting enterprise s
 🔸 **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/kent28808/sentineltrap-cloud-honeypot/tree/main)**  
 
 
-### 🛡️ Vulnerability Management Projects
+### 🛡️ Vulnerability Management 
 
 🔹 **[Enterprise Vulnerability Management Program](https://github.com/kent28808/Vulnerability-Management-Program)**   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Built an end-to-end program for vulnerability discovery, prioritization, remediation, and validation.*  
 🔹 **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)]()**. 
 
 
-### </> Software Engineering Projects
+### </> Software Engineering
 
 🔹 **[Olive Branch](https://www.joincolab.io/product/olive-branch)**-*Olive Branch is a communication tool that makes it easier for loved ones to reach out to each other after conflict.*  
 🔹 **[Wheretogo](https://github.com/kent28808/Wheretogo)**-*Travel application that uses the Yelp api to search for popular restaurants based on location.*  
