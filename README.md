@@ -8,21 +8,23 @@ My background includes developing software applications, supporting enterprise s
 
 ### ⚔️ Threat Hunting and Security Operations
 
-🔸 **[Azure Cloud Windows Honeypot with End-to-End Detection & Incident Response](https://github.com/kent28808/sentineltrap-cloud-honeypot/tree/main)**-Deployed an exposed Azure honeypot and used Microsoft Defender and Sentinel to detect, investigate, and respond to attacks.  
+🔸 **[Azure Cloud Windows Honeypot with End-to-End Detection & Incident Response](https://github.com/kent28808/sentineltrap-cloud-honeypot/tree/main)**   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Deployed an exposed Azure honeypot and used Microsoft Defender and Sentinel to detect, investigate, and respond to attacks.*  
 🔸 **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/kent28808/sentineltrap-cloud-honeypot/tree/main)**  
 
 
 ### 🛡️ Vulnerability Management Projects
 
-🔹 **[Enterprise Vulnerability Management Program](https://github.com/kent28808/Vulnerability-Management-Program)**-Built an end-to-end program for vulnerability discovery, prioritization, remediation, and validation.  
+🔹 **[Enterprise Vulnerability Management Program](https://github.com/kent28808/Vulnerability-Management-Program)**   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Built an end-to-end program for vulnerability discovery, prioritization, remediation, and validation.*  
 🔹 **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)]()**. 
 
 
 ### </> Software Engineering Projects
 
-🔹 **[Olive Branch](https://www.joincolab.io/product/olive-branch)**-Olive Branch is a communication tool that makes it easier for loved ones to reach out to each other after conflict.  
-🔹 **[Wheretogo](https://github.com/kent28808/Wheretogo)**-Travel application that uses the Yelp api to search for popular restaurants based on location.  
-🔹 **[Samurai Champloo Game](https://github.com/kent28808/Clicky-Game)**-Users can test their memory by not clicking on the same character more than once.  
+🔹 **[Olive Branch](https://www.joincolab.io/product/olive-branch)**-*Olive Branch is a communication tool that makes it easier for loved ones to reach out to each other after conflict.*  
+🔹 **[Wheretogo](https://github.com/kent28808/Wheretogo)**-*Travel application that uses the Yelp api to search for popular restaurants based on location.*  
+🔹 **[Samurai Champloo Game](https://github.com/kent28808/Clicky-Game)**-*Users can test their memory by not clicking on the same character more than once.*  
 
 <hr/>
 
