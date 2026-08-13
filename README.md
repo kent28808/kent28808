@@ -28,7 +28,7 @@ My background includes developing software applications, supporting enterprise s
 
 ### 🤳 Connect With Me
 <p>
-<a href="mailto:kent28808@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email Ken" width="32" height="32"></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=kent28808%40gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email Ken via Gmail" width="32" height="32"></a>
   &nbsp;
  <a href="https://www.linkedin.com/in/kent28808/"
      target="_blank"
