@@ -7,19 +7,22 @@ My background includes developing software applications, supporting enterprise s
 ## 🚀 Project Showcase
 
 ### ⚔️ Threat Hunting and Security Operations
+<dl>
+  <dt>🔸 <strong><a href="https://github.com/kent28808/sentineltrap-cloud-honeypot/tree/main">Azure Cloud Windows Honeypot with End-to-End Detection &amp; Incident Response</a></strong></dt>
+  <dd><em>Deployed an exposed Azure honeypot and used Microsoft Defender and Sentinel to detect, investigate, and respond to attacks.</em></dd>
 
-🔸 **[Azure Cloud Windows Honeypot with End-to-End Detection & Incident Response](https://github.com/kent28808/sentineltrap-cloud-honeypot/tree/main)**   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Deployed an exposed Azure honeypot and used Microsoft Defender and Sentinel to detect, investigate, and respond to attacks.*  
-🔸 **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/kent28808/sentineltrap-cloud-honeypot/tree/main)**  
-
-
-### 🛡️ Vulnerability Management 
-
-🔹 **[Enterprise Vulnerability Management Program](https://github.com/kent28808/Vulnerability-Management-Program)**   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*End-to-end program for vulnerability discovery, prioritization, remediation, and validation.*  
-🔹 **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)]()**. 
+  <dt>🔸 <strong><a href="https://github.com/kent28808/sentineltrap-cloud-honeypot/tree/main">Threat Hunting Scenario (Tor Browser Usage)</a></strong></dt>
+</dl>
 
 
+### 🛡️ Vulnerability Management
+
+<dl>
+  <dt>🔹 <strong><a href="https://github.com/kent28808/Vulnerability-Management-Program">Enterprise Vulnerability Management Program</a></strong></dt>
+  <dd><em>End-to-end program for vulnerability discovery, prioritization, remediation, and validation.</em></dd>
+
+  <dt>🔹 <strong>Programmatic Vulnerability Remediations (PowerShell, Bash, and Shell Commands)</strong></dt>
+</dl>
 ### </> Software Engineering
 
 💠 **[Olive Branch](https://www.joincolab.io/product/olive-branch)**-*Olive Branch is a communication tool that makes it easier for loved ones to reach out to each other after conflict.*  
