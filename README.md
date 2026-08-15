@@ -9,7 +9,7 @@ My background includes developing software applications, supporting enterprise s
 ### ⚔️ Threat Hunting and Security Operations
 
 🔸 **[Azure Cloud Windows Honeypot with End-to-End Detection & Incident Response](https://github.com/kent28808/sentineltrap-cloud-honeypot/tree/main)**   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Deployed an exposed Azure honeypot and used Microsoft Defender and Sentinel to detect, investigate, and respond to attacks.*  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Deployed an exposed Azure honeypot and used Microsoft Defender and Sentinel to detect, investigate, and respond to attacks.*  
 
 🔸 **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/kent28808/sentineltrap-cloud-honeypot/tree/main)**  
 
@@ -17,7 +17,7 @@ My background includes developing software applications, supporting enterprise s
 ### 🛡️ Vulnerability Management 
 
 🔹 **[Enterprise Vulnerability Management Program](https://github.com/kent28808/Vulnerability-Management-Program)**   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*End-to-end program for vulnerability discovery, prioritization, remediation, and validation.*  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*End-to-end program for vulnerability discovery, prioritization, remediation, and validation.*  
 
 🔹 **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)]()**. 
 
