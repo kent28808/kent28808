@@ -18,7 +18,7 @@ My background includes developing software applications, supporting enterprise s
 🔹 **[Enterprise Vulnerability Management Program](https://github.com/kent28808/Vulnerability-Management-Program)**   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*End-to-end program for vulnerability discovery, prioritization, remediation, and validation.*  
 🔹 **[Windows 11 DISA STIG Remediation (PowerShell & Tenable)](https://github.com/kent28808/windows-11-disa-stig-remediations)**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Remediated Windows 11 DISA STIG findings with PowerShell and validated them using Tenable.*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Remediated Windows 11 DISA STIG hardening with PowerShell and validated them using Tenable.*
 
 ### </> Software Engineering
 
