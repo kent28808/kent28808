@@ -26,6 +26,11 @@ My background includes developing software applications, supporting enterprise s
 💠 **[Wheretogo](https://github.com/kent28808/Wheretogo)**-*Travel application that uses the Yelp api to search for popular restaurants based on location.*  
 💠 **[Samurai Champloo Game](https://github.com/kent28808/Clicky-Game)**-*Users can test their memory by not clicking on the same character more than once.*  
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kent28808&label=Profile+views&color=red&style=for-the-badge"
+       alt="GitHub profile view counter">
+</p>
+
 <hr/>
 
 ### 🤳 Connect With Me
@@ -40,9 +45,4 @@ My background includes developing software applications, supporting enterprise s
          width="32"
          height="32">
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kent28808&label=Profile+views&color=red&style=for-the-badge"
-       alt="GitHub profile view counter">
 </p>
