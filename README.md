@@ -41,3 +41,8 @@ My background includes developing software applications, supporting enterprise s
          height="32">
   </a>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kent28808&label=Profile+views&color=red&style=for-the-badge"
+       alt="GitHub profile view counter">
+</p>
