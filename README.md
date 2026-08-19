@@ -10,7 +10,8 @@ My background includes developing software applications, supporting enterprise s
 
 🔸 **[Azure Cloud Windows Honeypot with End-to-End Detection & Incident Response](https://github.com/kent28808/sentineltrap-cloud-honeypot/tree/main)**   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Deployed an exposed Azure honeypot and used Microsoft Defender and Sentinel to detect, investigate, and respond to attacks.*  
-🔸 **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/kent28808/sentineltrap-cloud-honeypot/tree/main)**  
+🔸 **[Threat Hunting Scenario (Credential Compromise Investigation)](https://github.com/kent28808/nimbus-health-credential-compromise-threat-hunt)**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*KQL threat hunt tracing a compromised account from initial access to potential data exfiltration.*
 
 
 ### 🛡️ Vulnerability Management 
