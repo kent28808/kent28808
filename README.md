@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/matrix-bannerr2.gif" alt="Animated Matrix-style digital rain" width="100%"/>
+  <img src="./assets/matrix-bannerr3.gif" alt="Animated Matrix-style digital rain" width="100%"/>
 </p>
 
 # <a href="https://www.linkedin.com/in/kent28808/">Ken's</a> IT, Cybersecurity & Software Engineering Portfolio
