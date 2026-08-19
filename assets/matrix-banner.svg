@@ -1,0 +1,155 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Falling green digital code</title>
+  <desc id="desc">Dense columns of mirrored half-width katakana, Latin letters, numerals, and symbols fall continuously over a pure-black background.</desc>
+
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#000000"/>
+      <stop offset="0.5" stop-color="#001006"/>
+      <stop offset="1" stop-color="#000000"/>
+    </linearGradient>
+
+    <linearGradient id="rainTrail" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#002d10" stop-opacity="0.05"/>
+      <stop offset="0.24" stop-color="#007c2e" stop-opacity="0.32"/>
+      <stop offset="0.64" stop-color="#00e854" stop-opacity="0.82"/>
+      <stop offset="0.88" stop-color="#3dff7d"/>
+      <stop offset="1" stop-color="#effff3"/>
+    </linearGradient>
+
+    <linearGradient id="textureTrail" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#005820" stop-opacity="0.15"/>
+      <stop offset="0.55" stop-color="#00c947" stop-opacity="0.72"/>
+      <stop offset="0.88" stop-color="#42ff7a"/>
+      <stop offset="1" stop-color="#effff3"/>
+    </linearGradient>
+
+    <filter id="softGlow" x="-100%" y="-20%" width="300%" height="140%">
+      <feGaussianBlur stdDeviation="2.2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="faintGlow" x="-80%" y="-10%" width="260%" height="120%">
+      <feGaussianBlur stdDeviation="0.8" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <g id="textureA"><text class="texture"><tspan x="0" y="0">ﾊ</tspan><tspan x="0" dy="20">7</tspan><tspan x="0" dy="20">ﾐ</tspan><tspan x="0" dy="20">2</tspan><tspan x="0" dy="20">ﾈ</tspan><tspan x="0" dy="20">4</tspan><tspan x="0" dy="20">ｼ</tspan><tspan x="0" dy="20">1</tspan><tspan x="0" dy="20">ﾂ</tspan><tspan x="0" dy="20">8</tspan><tspan x="0" dy="20">ﾗ</tspan><tspan x="0" dy="20">3</tspan><tspan x="0" dy="20">ｦ</tspan></text></g>
+    <g id="textureB"><text class="texture"><tspan x="0" y="0">ﾘ</tspan><tspan x="0" dy="20">6</tspan><tspan x="0" dy="20">ﾔ</tspan><tspan x="0" dy="20">Z</tspan><tspan x="0" dy="20">ｸ</tspan><tspan x="0" dy="20">9</tspan><tspan x="0" dy="20">ｿ</tspan><tspan x="0" dy="20">1</tspan><tspan x="0" dy="20">ﾊ</tspan><tspan x="0" dy="20">8</tspan><tspan x="0" dy="20">ｦ</tspan><tspan x="0" dy="20">3</tspan><tspan x="0" dy="20">ﾅ</tspan></text></g>
+    <g id="textureC"><text class="texture"><tspan x="0" y="0">4</tspan><tspan x="0" dy="20">ｶ</tspan><tspan x="0" dy="20">1</tspan><tspan x="0" dy="20">ﾚ</tspan><tspan x="0" dy="20">8</tspan><tspan x="0" dy="20">F</tspan><tspan x="0" dy="20">0</tspan><tspan x="0" dy="20">ﾓ</tspan><tspan x="0" dy="20">6</tspan><tspan x="0" dy="20">ﾆ</tspan><tspan x="0" dy="20">3</tspan><tspan x="0" dy="20">ﾇ</tspan><tspan x="0" dy="20">9</tspan></text></g>
+
+    <clipPath id="bannerClip">
+      <rect width="1200" height="320"/>
+    </clipPath>
+
+    <style>
+      .stream {
+        font-family: "Hiragino Kaku Gothic ProN", "Yu Gothic", "Noto Sans JP", "Noto Sans CJK JP", "Arial Unicode MS", monospace;
+        font-size: 17px;
+        letter-spacing: 3px;
+        writing-mode: vertical-rl;
+        text-orientation: upright;
+        fill: url(#rainTrail);
+        filter: url(#softGlow);
+      }
+      .dim { opacity: 0.50; }
+      .mid { opacity: 0.76; }
+      .hot { opacity: 1; }
+      .texture {
+        font-family: "Hiragino Kaku Gothic ProN", "Yu Gothic", "Noto Sans JP", "Noto Sans CJK JP", "Arial Unicode MS", monospace;
+        font-size: 15px;
+        fill: url(#textureTrail);
+        filter: url(#faintGlow);
+      }
+      .mirrored text {
+        transform: scaleX(-1);
+        transform-box: fill-box;
+        transform-origin: center;
+      }
+      @media (prefers-reduced-motion: reduce) {
+        animateTransform { display: none; }
+      }
+    </style>
+  </defs>
+
+  <g clip-path="url(#bannerClip)">
+    <rect width="1200" height="320" fill="url(#background)"/>
+
+    <!-- Dense luminous texture remains visible if motion is disabled. -->
+    <g>
+      <use href="#textureA" transform="translate(20 -24)" opacity="0.32"/>
+      <use href="#textureB" transform="translate(58 36)" opacity="0.48"/>
+      <use href="#textureC" transform="translate(96 -70)" opacity="0.26"/>
+      <use href="#textureA" transform="translate(134 10)" opacity="0.58"/>
+      <use href="#textureB" transform="translate(172 -42)" opacity="0.34"/>
+      <use href="#textureC" transform="translate(210 64)" opacity="0.50"/>
+      <use href="#textureA" transform="translate(248 -82)" opacity="0.28"/>
+      <use href="#textureB" transform="translate(286 22)" opacity="0.62"/>
+      <use href="#textureC" transform="translate(324 -34)" opacity="0.38"/>
+      <use href="#textureA" transform="translate(362 52)" opacity="0.54"/>
+      <use href="#textureB" transform="translate(400 -66)" opacity="0.30"/>
+      <use href="#textureC" transform="translate(438 6)" opacity="0.68"/>
+      <use href="#textureA" transform="translate(476 -18)" opacity="0.36"/>
+      <use href="#textureB" transform="translate(514 74)" opacity="0.52"/>
+      <use href="#textureC" transform="translate(552 -88)" opacity="0.30"/>
+      <use href="#textureA" transform="translate(590 28)" opacity="0.64"/>
+      <use href="#textureB" transform="translate(628 -50)" opacity="0.38"/>
+      <use href="#textureC" transform="translate(666 58)" opacity="0.56"/>
+      <use href="#textureA" transform="translate(704 -76)" opacity="0.28"/>
+      <use href="#textureB" transform="translate(742 14)" opacity="0.66"/>
+      <use href="#textureC" transform="translate(780 -28)" opacity="0.40"/>
+      <use href="#textureA" transform="translate(818 68)" opacity="0.50"/>
+      <use href="#textureB" transform="translate(856 -92)" opacity="0.32"/>
+      <use href="#textureC" transform="translate(894 34)" opacity="0.60"/>
+      <use href="#textureA" transform="translate(932 -46)" opacity="0.36"/>
+      <use href="#textureB" transform="translate(970 48)" opacity="0.58"/>
+      <use href="#textureC" transform="translate(1008 -72)" opacity="0.30"/>
+      <use href="#textureA" transform="translate(1046 18)" opacity="0.64"/>
+      <use href="#textureB" transform="translate(1084 -20)" opacity="0.40"/>
+      <use href="#textureC" transform="translate(1122 72)" opacity="0.52"/>
+      <use href="#textureA" transform="translate(1160 -84)" opacity="0.28"/>
+      <use href="#textureB" transform="translate(1192 26)" opacity="0.62"/>
+    </g>
+
+    <!-- Paired trails make every slow stream repeat continuously without a blank pause. -->
+    <g class="stream dim"><text x="20" y="-390">ﾊ7ﾐ2ﾈ4ｼ1ﾂ8ﾗ3ｦ0Z</text><text x="20" y="50">ﾊ7ﾐ2ﾈ4ｼ1ﾂ8ﾗ3ｦ0Z</text><animateTransform attributeName="transform" type="translate" from="0 0" to="0 440" dur="38s" begin="-7s" calcMode="linear" repeatCount="indefinite"/></g>
+    <g class="stream mid mirrored"><text x="58" y="-390">ﾘ2ﾔ0ｸ8ｿ4ﾊ1ｦ7ﾅ3ﾒ9</text><text x="58" y="50">ﾘ2ﾔ0ｸ8ｿ4ﾊ1ｦ7ﾅ3ﾒ9</text><animateTransform attributeName="transform" type="translate" from="0 0" to="0 440" dur="34s" begin="-21s" calcMode="linear" repeatCount="indefinite"/></g>
+    <g class="stream dim"><text x="96" y="-390">5ｶ1ﾚ8F0ﾓ6ﾆ3ﾇ9ｻ2ﾜ</text><text x="96" y="50">5ｶ1ﾚ8F0ﾓ6ﾆ3ﾇ9ｻ2ﾜ</text><animateTransform attributeName="transform" type="translate" from="0 0" to="0 440" dur="40s" begin="-13s" calcMode="linear" repeatCount="indefinite"/></g>
+    <g class="stream hot mirrored"><text x="134" y="-390">ﾎ9ﾑ1ﾈ7ｦ3ﾗ0ﾐ6ﾂ2ﾊ8</text><text x="134" y="50">ﾎ9ﾑ1ﾈ7ｦ3ﾗ0ﾐ6ﾂ2ﾊ8</text><animateTransform attributeName="transform" type="translate" from="0 0" to="0 440" dur="32s" begin="-26s" calcMode="linear" repeatCount="indefinite"/></g>
+    <g class="stream dim"><text x="172" y="-390">7ﾒ3ｸ0ﾌ8ﾅ2ｶ9ﾘ5ﾇ1ﾓ</text><text x="172" y="50">7ﾒ3ｸ0ﾌ8ﾅ2ｶ9ﾘ5ﾇ1ﾓ</text><animateTransform attributeName="transform" type="translate" from="0 0" to="0 440" dur="39s" begin="-4s" calcMode="linear" repeatCount="indefinite"/></g>
+    <g class="stream mid mirrored"><text x="210" y="-390">ﾂ0ﾐ8ｼ2ﾊ6ﾗ1ｦ9ﾈ4ﾑ7</text><text x="210" y="50">ﾂ0ﾐ8ｼ2ﾊ6ﾗ1ｦ9ﾈ4ﾑ7</text><animateTransform attributeName="transform" type="translate" from="0 0" to="0 440" dur="36s" begin="-17s" calcMode="linear" repeatCount="indefinite"/></g>
+    <g class="stream dim"><text x="248" y="-390">1ﾜ6ﾖ3ﾆ8ｻ0ﾓ5ﾌ2ﾚ9K</text><text x="248" y="50">1ﾜ6ﾖ3ﾆ8ｻ0ﾓ5ﾌ2ﾚ9K</text><animateTransform attributeName="transform" type="translate" from="0 0" to="0 440" dur="41s" begin="-29s" calcMode="linear" repeatCount="indefinite"/></g>
+    <g class="stream hot mirrored"><text x="286" y="-390">ﾅ8ﾘ4ﾒ0ﾔ6ｸ2ｿ9ﾊ1ｦ7</text><text x="286" y="50">ﾅ8ﾘ4ﾒ0ﾔ6ｸ2ｿ9ﾊ1ｦ7</text><animateTransform attributeName="transform" type="translate" from="0 0" to="0 440" dur="33s" begin="-11s" calcMode="linear" repeatCount="indefinite"/></g>
+    <g class="stream dim"><text x="324" y="-390">ﾑ3ﾎ7ﾐ0ﾈ5ﾗ9ｼ1ﾂ8ﾊ4</text><text x="324" y="50">ﾑ3ﾎ7ﾐ0ﾈ5ﾗ9ｼ1ﾂ8ﾊ4</text><animateTransform attributeName="transform" type="translate" from="0 0" to="0 440" dur="37s" begin="-23s" calcMode="linear" repeatCount="indefinite"/></g>
+    <g class="stream mid mirrored"><text x="362" y="-390">6F2ｶ9ﾓ1ﾇ7ﾚ3ﾖ8ﾜ0ﾆ</text><text x="362" y="50">6F2ｶ9ﾓ1ﾇ7ﾚ3ﾖ8ﾜ0ﾆ</text><animateTransform attributeName="transform" type="translate" from="0 0" to="0 440" dur="35s" begin="-6s" calcMode="linear" repeatCount="indefinite"/></g>
+    <g class="stream dim"><text x="400" y="-390">ｸ9ｿ3ﾔ1ﾒ7ﾘ0ﾅ6ﾂ2ﾐ8</text><text x="400" y="50">ｸ9ｿ3ﾔ1ﾒ7ﾘ0ﾅ6ﾂ2ﾐ8</text><animateTransform attributeName="transform" type="translate" from="0 0" to="0 440" dur="42s" begin="-31s" calcMode="linear" repeatCount="indefinite"/></g>
+    <g class="stream hot mirrored"><text x="438" y="-390">ｦ4ﾊ0ｼ8ﾗ2ﾈ6ﾎ1ﾑ9ﾐ3</text><text x="438" y="50">ｦ4ﾊ0ｼ8ﾗ2ﾈ6ﾎ1ﾑ9ﾐ3</text><animateTransform attributeName="transform" type="translate" from="0 0" to="0 440" dur="31s" begin="-15s" calcMode="linear" repeatCount="indefinite"/></g>
+    <g class="stream dim"><text x="476" y="-390">ﾚ0ｶ7ﾌ4ﾓ9ﾆ1ｻ6ﾜ2ﾖ8</text><text x="476" y="50">ﾚ0ｶ7ﾌ4ﾓ9ﾆ1ｻ6ﾜ2ﾖ8</text><animateTransform attributeName="transform" type="translate" from="0 0" to="0 440" dur="39s" begin="-20s" calcMode="linear" repeatCount="indefinite"/></g>
+    <g class="stream mid mirrored"><text x="514" y="-390">ﾐ6ﾂ1ﾊ9ｦ5ﾗ0ﾈ8ﾑ2ﾎ7</text><text x="514" y="50">ﾐ6ﾂ1ﾊ9ｦ5ﾗ0ﾈ8ﾑ2ﾎ7</text><animateTransform attributeName="transform" type="translate" from="0 0" to="0 440" dur="34s" begin="-2s" calcMode="linear" repeatCount="indefinite"/></g>
+    <g class="stream dim"><text x="552" y="-390">3ﾅ8ﾘ0ﾒ6ﾔ2ｸ9ｿ1ﾊ7W</text><text x="552" y="50">3ﾅ8ﾘ0ﾒ6ﾔ2ｸ9ｿ1ﾊ7W</text><animateTransform attributeName="transform" type="translate" from="0 0" to="0 440" dur="40s" begin="-27s" calcMode="linear" repeatCount="indefinite"/></g>
+    <g class="stream hot mirrored"><text x="590" y="-390">ﾎ2ﾑ8ﾈ4ﾗ1ｼ7ﾂ0ﾐ6ﾊ3</text><text x="590" y="50">ﾎ2ﾑ8ﾈ4ﾗ1ｼ7ﾂ0ﾐ6ﾊ3</text><animateTransform attributeName="transform" type="translate" from="0 0" to="0 440" dur="32s" begin="-18s" calcMode="linear" repeatCount="indefinite"/></g>
+    <g class="stream dim"><text x="628" y="-390">ｶ5ﾚ1ﾌ9ﾓ3ﾆ7ﾇ0ｻ8ﾜ2</text><text x="628" y="50">ｶ5ﾚ1ﾌ9ﾓ3ﾆ7ﾇ0ｻ8ﾜ2</text><animateTransform attributeName="transform" type="translate" from="0 0" to="0 440" dur="41s" begin="-9s" calcMode="linear" repeatCount="indefinite"/></g>
+    <g class="stream mid mirrored"><text x="666" y="-390">ﾔ7ｸ0ｿ6ﾊ2ｦ8ﾅ1ﾒ9ﾘ3</text><text x="666" y="50">ﾔ7ｸ0ｿ6ﾊ2ｦ8ﾅ1ﾒ9ﾘ3</text><animateTransform attributeName="transform" type="translate" from="0 0" to="0 440" dur="36s" begin="-24s" calcMode="linear" repeatCount="indefinite"/></g>
+    <g class="stream dim"><text x="704" y="-390">ﾈ4ﾎ0ﾑ7ﾐ2ﾂ9ﾊ1ｼ8ﾗ3</text><text x="704" y="50">ﾈ4ﾎ0ﾑ7ﾐ2ﾂ9ﾊ1ｼ8ﾗ3</text><animateTransform attributeName="transform" type="translate" from="0 0" to="0 440" dur="43s" begin="-5s" calcMode="linear" repeatCount="indefinite"/></g>
+    <g class="stream hot mirrored"><text x="742" y="-390">ﾆ8ｻ2ﾜ6ﾖ0ﾇ9ﾚ3ｶ7F1</text><text x="742" y="50">ﾆ8ｻ2ﾜ6ﾖ0ﾇ9ﾚ3ｶ7F1</text><animateTransform attributeName="transform" type="translate" from="0 0" to="0 440" dur="31s" begin="-19s" calcMode="linear" repeatCount="indefinite"/></g>
+    <g class="stream dim"><text x="780" y="-390">ﾘ1ﾅ7ｦ3ﾊ9ｿ0ｸ6ﾔ2ﾒ8</text><text x="780" y="50">ﾘ1ﾅ7ｦ3ﾊ9ｿ0ｸ6ﾔ2ﾒ8</text><animateTransform attributeName="transform" type="translate" from="0 0" to="0 440" dur="40s" begin="-33s" calcMode="linear" repeatCount="indefinite"/></g>
+    <g class="stream mid mirrored"><text x="818" y="-390">ｼ6ﾗ2ﾈ8ﾎ0ﾑ5ﾐ1ﾂ9ﾊ3</text><text x="818" y="50">ｼ6ﾗ2ﾈ8ﾎ0ﾑ5ﾐ1ﾂ9ﾊ3</text><animateTransform attributeName="transform" type="translate" from="0 0" to="0 440" dur="35s" begin="-12s" calcMode="linear" repeatCount="indefinite"/></g>
+    <g class="stream dim"><text x="856" y="-390">ﾜ9ﾖ4ﾆ0ｻ7ﾓ2ﾌ8ﾚ1ｶ6</text><text x="856" y="50">ﾜ9ﾖ4ﾆ0ｻ7ﾓ2ﾌ8ﾚ1ｶ6</text><animateTransform attributeName="transform" type="translate" from="0 0" to="0 440" dur="42s" begin="-28s" calcMode="linear" repeatCount="indefinite"/></g>
+    <g class="stream hot mirrored"><text x="894" y="-390">ﾊ5ｦ1ﾅ8ﾘ2ﾒ6ﾔ0ｸ9ｿ3</text><text x="894" y="50">ﾊ5ｦ1ﾅ8ﾘ2ﾒ6ﾔ0ｸ9ｿ3</text><animateTransform attributeName="transform" type="translate" from="0 0" to="0 440" dur="32s" begin="-7s" calcMode="linear" repeatCount="indefinite"/></g>
+    <g class="stream dim"><text x="932" y="-390">ﾐ0ﾂ7ﾊ3ｦ9ﾗ1ｼ6ﾈ2ﾎ8</text><text x="932" y="50">ﾐ0ﾂ7ﾊ3ｦ9ﾗ1ｼ6ﾈ2ﾎ8</text><animateTransform attributeName="transform" type="translate" from="0 0" to="0 440" dur="38s" begin="-25s" calcMode="linear" repeatCount="indefinite"/></g>
+    <g class="stream mid mirrored"><text x="970" y="-390">ﾌ7ﾓ1ﾆ9ﾇ3ｻ8ﾜ0ﾖ6ﾚ2</text><text x="970" y="50">ﾌ7ﾓ1ﾆ9ﾇ3ｻ8ﾜ0ﾖ6ﾚ2</text><animateTransform attributeName="transform" type="translate" from="0 0" to="0 440" dur="34s" begin="-16s" calcMode="linear" repeatCount="indefinite"/></g>
+    <g class="stream dim"><text x="1008" y="-390">ｿ2ﾊ8ｦ4ﾅ0ﾘ7ﾒ1ﾔ9ｸ3</text><text x="1008" y="50">ｿ2ﾊ8ｦ4ﾅ0ﾘ7ﾒ1ﾔ9ｸ3</text><animateTransform attributeName="transform" type="translate" from="0 0" to="0 440" dur="41s" begin="-3s" calcMode="linear" repeatCount="indefinite"/></g>
+    <g class="stream hot mirrored"><text x="1046" y="-390">ﾗ8ｼ3ﾈ0ﾎ6ﾑ2ﾐ9ﾂ1ﾊ7</text><text x="1046" y="50">ﾗ8ｼ3ﾈ0ﾎ6ﾑ2ﾐ9ﾂ1ﾊ7</text><animateTransform attributeName="transform" type="translate" from="0 0" to="0 440" dur="31s" begin="-22s" calcMode="linear" repeatCount="indefinite"/></g>
+    <g class="stream dim"><text x="1084" y="-390">ﾇ3ｻ9ﾜ5ﾖ1ﾚ8ｶ0ﾌ6ﾓ2</text><text x="1084" y="50">ﾇ3ｻ9ﾜ5ﾖ1ﾚ8ｶ0ﾌ6ﾓ2</text><animateTransform attributeName="transform" type="translate" from="0 0" to="0 440" dur="43s" begin="-36s" calcMode="linear" repeatCount="indefinite"/></g>
+    <g class="stream mid mirrored"><text x="1122" y="-390">ﾒ4ﾔ0ｸ7ｿ2ﾊ9ｦ1ﾅ8ﾘ3</text><text x="1122" y="50">ﾒ4ﾔ0ｸ7ｿ2ﾊ9ｦ1ﾅ8ﾘ3</text><animateTransform attributeName="transform" type="translate" from="0 0" to="0 440" dur="35s" begin="-10s" calcMode="linear" repeatCount="indefinite"/></g>
+    <g class="stream dim"><text x="1160" y="-390">ﾑ6ﾐ2ﾂ8ﾊ0ｦ7ﾗ3ｼ9ﾈ1</text><text x="1160" y="50">ﾑ6ﾐ2ﾂ8ﾊ0ｦ7ﾗ3ｼ9ﾈ1</text><animateTransform attributeName="transform" type="translate" from="0 0" to="0 440" dur="39s" begin="-30s" calcMode="linear" repeatCount="indefinite"/></g>
+    <g class="stream hot mirrored"><text x="1192" y="-390">ｶ1ﾌ7ﾓ3ﾆ9ﾇ5ｻ0ﾜ8ﾖ2</text><text x="1192" y="50">ｶ1ﾌ7ﾓ3ﾆ9ﾇ5ｻ0ﾜ8ﾖ2</text><animateTransform attributeName="transform" type="translate" from="0 0" to="0 440" dur="33s" begin="-14s" calcMode="linear" repeatCount="indefinite"/></g>
+
+  </g>
+</svg>
