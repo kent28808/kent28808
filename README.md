@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/matrix-banner.svg" alt="Animated Matrix-style digital rain" width="100%"/>
+</p>
+
 # <a href="https://www.linkedin.com/in/kent28808/">Ken's</a> IT, Cybersecurity & Software Engineering Portfolio
 
 I'm a technology professional with experience spanning software engineering, IT operations, cloud infrastructure, and cybersecurity.   
