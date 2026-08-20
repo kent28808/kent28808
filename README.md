@@ -1,8 +1,14 @@
+# <a href="https://www.linkedin.com/in/kent28808/">Ken's</a> IT, Cybersecurity & Software Engineering Portfolio
+
 <p align="center">
   <img src="./assets/matrix-bannerr3.gif" alt="Animated Matrix-style digital rain" width="100%"/>
 </p>
 
-# <a href="https://www.linkedin.com/in/kent28808/">Ken's</a> IT, Cybersecurity & Software Engineering Portfolio
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Ftimeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAmerica%252FLos_Angeles&amp;query=%24.dayOfWeek&amp;label=DAY&amp;style=flat-square&amp;logo=gnubash&amp;logoColor=39FF14&amp;labelColor=050A05&amp;color=166534&amp;cacheSeconds=300" alt="Current day">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Ftimeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAmerica%252FLos_Angeles&amp;query=%24.date&amp;label=DATE&amp;style=flat-square&amp;labelColor=050A05&amp;color=166534&amp;cacheSeconds=300" alt="Current date">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Ftimeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAmerica%252FLos_Angeles&amp;query=%24.time&amp;label=TIME%20PT&amp;style=flat-square&amp;labelColor=050A05&amp;color=166534&amp;cacheSeconds=300" alt="Current Pacific Time">
+</p>
 
 I'm a technology professional with experience spanning software engineering, IT operations, cloud infrastructure, and cybersecurity.   
 My background includes developing software applications, supporting enterprise systems, working with Linux and Windows environments, and building hands-on labs to strengthen my skills in networking and security.
